@@ -1,6 +1,6 @@
  # Hi, I'm Gaurav Giri 👋
 
-### Aspiring Business Analyst | Data Analyst | Aerospace Engineer
+### Business Analyst | Data Analyst | Aerospace Engineer
 
 I'm an Aerospace Engineer with experience at **TBRL, DRDO, Chandigarh**, now focused on building my career in **Business Analysis and Data Analytics**. I'm interested in using data-driven insights, analytical thinking, and structured problem-solving to understand business challenges and support informed decision-making.
 
@@ -9,7 +9,7 @@ I use tools such as SQL, Power BI, Excel, and Python to explore data, analyze in
 ## 👨‍💻 About Me
 
 * 🎓 Background in Aerospace Engineering.
-* 📊 Aspiring Business Analyst and Data Analyst.
+* 📊 Business Analyst and Data Analyst.
 * 🔍 Interested in data analysis, business problem-solving, and process improvement.
 * 📈 Building projects using SQL, Power BI, and Excel.
 * 🌱 Continuously learning and strengthening my analytical and technical skills.
